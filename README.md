@@ -184,14 +184,14 @@ Here are some ideas to get you started:
 I'm eager to explore collaboration opportunities on projects that leverage cutting-edge technologies, especially in the fields of AI/ML, web development, and creative applications. Don't hesitate to contact me if you have an interesting project or concept you'd like to work on together!  -->
 
 
-## 🚀 Connect with Me:
+<!--## 🚀 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-VikashKumar-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/ayush-kumar/](https://www.linkedin.com/in/ayush-kumar-11070b325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-[![Instagram](https://img.shields.io/badge/Instagram-VikashKumar-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ayush._.kumar__/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AyushKumar-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/ayush-kumar/](https://www.linkedin.com/in/ayush-kumar))
+[![Instagram](https://img.shields.io/badge/Instagram-AyushKumar-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ayush._.kumar__/) -->
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-VikashKumar-blue?style=for-the-badge&logo=twitter)](https://twitter.com/vikashkrdeveloper) -->
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-VikashKumar-blueviolet?style=for-the-badge&logo=web)](https://vikashkrdeveloper.me/) -->
-[![GitHub](https://img.shields.io/badge/GitHub-vikashkrdeveloper-black?style=for-the-badge&logo=github)](https://github.com/The-Ayush001)
-[![Email](https://img.shields.io/badge/Email-VikashKumar-red?style=for-the-badge&logo=gmail)](mailto:vik.ayush007arm@gmail.com) 
+<!--[![GitHub](https://img.shields.io/badge/GitHub-The-Ayush001-black?style=for-the-badge&logo=github)](https://github.com/The-Ayush001)
+[![Email](https://img.shields.io/badge/Email-AyushKumar-red?style=for-the-badge&logo=gmail)](mailto:vik.ayush007arm@gmail.com) -->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=The-Ayush001&limit=5&theme=radical&combine_all_yearly_contributions=true)
