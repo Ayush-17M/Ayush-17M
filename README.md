@@ -89,16 +89,16 @@ Here are some ideas to get you started:
 <!--[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/) -->
 <!--[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) -->
 
-<!--### 🎨 UI Libraries and Frameworks
+### 🎨 UI Libraries and Frameworks
 
-[![Next UI](https://img.shields.io/badge/Next_UI-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextui.org/)
+<!-- [![Next UI](https://img.shields.io/badge/Next_UI-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextui.org/)
 [![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 [![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-0099FF?style=for-the-badge&logo=shadcn&logoColor=white)](https://shadcn.dev/)
 [![Radix UI](https://img.shields.io/badge/Radix_UI-9C27B0?style=for-the-badge&logo=radix&logoColor=white)](https://www.radix-ui.com/)
-[![Aceternity UI](https://img.shields.io/badge/Aceternity_UI-66C2A0?style=for-the-badge&logo=aceternity&logoColor=white)](https://aceternity.io/)
+[![Aceternity UI](https://img.shields.io/badge/Aceternity_UI-66C2A0?style=for-the-badge&logo=aceternity&logoColor=white)](https://aceternity.io/) -->
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
-[![GSAP Animation](https://img.shields.io/badge/GSAP_Animation-00C7FF?style=for-the-badge&logo=gsap&logoColor=white)](https://greensock.com/gsap/) -->
+<!-- [![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/) -->
+[![GSAP Animation](https://img.shields.io/badge/GSAP_Animation-00C7FF?style=for-the-badge&logo=gsap&logoColor=white)](https://greensock.com/gsap/) 
 
 ### 💻 Other Technologies
 
@@ -181,17 +181,17 @@ Here are some ideas to get you started:
 
 ## Collaboration
 
-I'm eager to explore collaboration opportunities on projects that leverage cutting-edge technologies, especially in the fields of AI/ML, web development, and creative applications. Don't hesitate to contact me if you have an interesting project or concept you'd like to work on together!
+I'm eager to explore collaboration opportunities on projects that leverage cutting-edge technologies, especially in the fields of AI/ML, web development, and creative applications. Don't hesitate to contact me if you have an interesting project or concept you'd like to work on together!  -->
 
 
 ## 🚀 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-VikashKumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikashkrdeveloper/)
-[![Instagram](https://img.shields.io/badge/Instagram-VikashKumar-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/vikashkrdeveloper/)
-[![Twitter](https://img.shields.io/badge/Twitter-VikashKumar-blue?style=for-the-badge&logo=twitter)](https://twitter.com/vikashkrdeveloper)
-[![Portfolio](https://img.shields.io/badge/Portfolio-VikashKumar-blueviolet?style=for-the-badge&logo=web)](https://vikashkrdeveloper.me/)
-[![GitHub](https://img.shields.io/badge/GitHub-vikashkrdeveloper-black?style=for-the-badge&logo=github)](https://github.com/vikashkrdeveloper)
-[![Email](https://img.shields.io/badge/Email-VikashKumar-red?style=for-the-badge&logo=gmail)](mailto:vik.fstkdvpro@gmail.com) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-VikashKumar-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/ayush-kumar/](https://www.linkedin.com/in/ayush-kumar-11070b325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![Instagram](https://img.shields.io/badge/Instagram-VikashKumar-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ayush._.kumar__/)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-VikashKumar-blue?style=for-the-badge&logo=twitter)](https://twitter.com/vikashkrdeveloper) -->
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-VikashKumar-blueviolet?style=for-the-badge&logo=web)](https://vikashkrdeveloper.me/) -->
+[![GitHub](https://img.shields.io/badge/GitHub-vikashkrdeveloper-black?style=for-the-badge&logo=github)](https://github.com/The-Ayush001)
+[![Email](https://img.shields.io/badge/Email-VikashKumar-red?style=for-the-badge&logo=gmail)](mailto:vik.ayush007arm@gmail.com) 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=The-Ayush001&limit=5&theme=radical&combine_all_yearly_contributions=true)
