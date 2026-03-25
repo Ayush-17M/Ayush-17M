@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-<!-- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/) -->
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 <!-- [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) -->
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -105,9 +105,9 @@ Here are some ideas to get you started:
 <!--[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) -->
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-<!--[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) -->
-<!--[![Data Structures](https://img.shields.io/badge/Data_Structures-0A0A0A?style=for-the-badge&logo=data%20structures&logoColor=white)](https://en.wikipedia.org/wiki/Data_structure) -->
-<!--[![Algorithms](https://img.shields.io/badge/Algorithms-9C27B0?style=for-the-badge&logo=algorithm&logoColor=white)](https://en.wikipedia.org/wiki/Algorithm) -->
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Data Structures](https://img.shields.io/badge/Data_Structures-0A0A0A?style=for-the-badge&logo=data%20structures&logoColor=white)](https://en.wikipedia.org/wiki/Data_structure)
+[![Algorithms](https://img.shields.io/badge/Algorithms-9C27B0?style=for-the-badge&logo=algorithm&logoColor=white)](https://en.wikipedia.org/wiki/Algorithm)
 <!--[![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=machine%20learning&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning) -->
 <!--[![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-0F9D58?style=for-the-badge&logo=artificial%20intelligence&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence) -->
 
@@ -184,14 +184,14 @@ Here are some ideas to get you started:
 I'm eager to explore collaboration opportunities on projects that leverage cutting-edge technologies, especially in the fields of AI/ML, web development, and creative applications. Don't hesitate to contact me if you have an interesting project or concept you'd like to work on together!  -->
 
 
-<!--## 🚀 Connect with Me:
+## 🚀 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AyushKumar-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/ayush-kumar/](https://www.linkedin.com/in/ayush-kumar))
-[![Instagram](https://img.shields.io/badge/Instagram-AyushKumar-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ayush._.kumar__/) -->
+[![Instagram](https://img.shields.io/badge/Instagram-AyushKumar-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ayush._.kumar__/)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-VikashKumar-blue?style=for-the-badge&logo=twitter)](https://twitter.com/vikashkrdeveloper) -->
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-VikashKumar-blueviolet?style=for-the-badge&logo=web)](https://vikashkrdeveloper.me/) -->
-<!--[![GitHub](https://img.shields.io/badge/GitHub-The-Ayush001-black?style=for-the-badge&logo=github)](https://github.com/The-Ayush001)
-[![Email](https://img.shields.io/badge/Email-AyushKumar-red?style=for-the-badge&logo=gmail)](mailto:vik.ayush007arm@gmail.com) -->
+[![GitHub](https://img.shields.io/badge/GitHub-The-Ayush001-black?style=for-the-badge&logo=github)](https://github.com/The-Ayush001)
+[![Email](https://img.shields.io/badge/Email-AyushKumar-red?style=for-the-badge&logo=gmail)](mailto:vik.ayush007arm@gmail.com)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=The-Ayush001&limit=5&theme=radical&combine_all_yearly_contributions=true)
