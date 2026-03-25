@@ -186,7 +186,7 @@ I'm eager to explore collaboration opportunities on projects that leverage cutti
 
 ## 🚀 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AyushKumar-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/ayush-kumar-11070b325/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AyushKumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-kumar-11070b325/)
 [![Instagram](https://img.shields.io/badge/Instagram-AyushKumar-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ayush._.kumar__/)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-VikashKumar-blue?style=for-the-badge&logo=twitter)](https://twitter.com/vikashkrdeveloper) -->
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-VikashKumar-blueviolet?style=for-the-badge&logo=web)](https://vikashkrdeveloper.me/) -->
