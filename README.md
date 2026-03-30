@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats 
 
-![Ayush Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-Ayush001&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+<!-- ![Ayush Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-Ayush001&show_icons=true&theme=radical&count_private=true&include_all_commits=true) -->
+
+![Ayush Kumar GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=The-Ayush001&theme=dark&hide_border=false)<br/>
 
 ## 🔥 Most Used Languages
 
