@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Ayush - Software Developer ##
 
-**The-Ayush001/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ayush-17M/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,19 +18,19 @@ Here are some ideas to get you started:
 
 ## Chart of My GitHub Activity
 
-![Ayush Kumar's GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=The-Ayush001&theme=react-dark)
+![Ayush Kumar's GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=Ayush-17M&theme=react-dark)
 
 ## 📊 GitHub Stats 
 
 <!-- ![Ayush Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-Ayush001&show_icons=true&theme=radical&count_private=true&include_all_commits=true) -->
 
-![Ayush Kumar GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=The-Ayush001&theme=dark&hide_border=false)<br/>
+![Ayush Kumar GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-17M&theme=dark&hide_border=false)<br/>
 
 ## 🔥 Most Used Languages
 
-![Ayush Kumar's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Ayush001&layout=compact&theme=radical)
+![Ayush Kumar's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-17M&layout=compact&theme=radical)
 
-## 🚀 GitHub Streak
+<!-- ## 🚀 GitHub Streak
  ![Ayush Kumar's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=The-Ayush001&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
@@ -42,30 +42,30 @@ Here are some ideas to get you started:
 ![Profile Views](https://komarev.com/ghpvc/?username=The-Ayush001&label=Profile+Views&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/The-Ayush001?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/The-Ayush001?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/The-Ayush001/The-Ayush001?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/The-Ayush001/The-Ayush001?style=social) -->
 
-### 🖥️ Frontend
+<!--### 🖥️ Frontend
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-<!-- [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) -->
+ [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-<!-- [![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/) -->
-<!-- [![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/) -->
-<!-- [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/) -->
+[![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
+[![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
 
 ### ⚙️ Backend
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-<!--[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) -->
-<!--[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/) -->
-<!--[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/) -->
-<!--[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/) -->
-<!--[![OAuth](https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white)](https://oauth.net/) -->
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
+[![OAuth](https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white)](https://oauth.net/)
 
 ### 🖥️ OS
 
@@ -74,46 +74,46 @@ Here are some ideas to get you started:
 
 ### 🚀 DevOps
 
-<!-- [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) -->
-<!-- [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/) -->
-<!-- [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/) -->
-<!-- [![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/) -->
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/action)
-<!-- [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) -->
-<!-- [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/) -->
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 ### 🛠️ Tools
 
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-<!-- [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) -->
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-<!--[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) -->
-<!-- [![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/) -->
-<!--[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/) -->
-<!--[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) -->
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 ### 🎨 UI Libraries and Frameworks
 
-<!-- [![Next UI](https://img.shields.io/badge/Next_UI-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextui.org/)
+[![Next UI](https://img.shields.io/badge/Next_UI-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextui.org/)
 [![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 [![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-0099FF?style=for-the-badge&logo=shadcn&logoColor=white)](https://shadcn.dev/)
 [![Radix UI](https://img.shields.io/badge/Radix_UI-9C27B0?style=for-the-badge&logo=radix&logoColor=white)](https://www.radix-ui.com/)
-[![Aceternity UI](https://img.shields.io/badge/Aceternity_UI-66C2A0?style=for-the-badge&logo=aceternity&logoColor=white)](https://aceternity.io/) -->
+[![Aceternity UI](https://img.shields.io/badge/Aceternity_UI-66C2A0?style=for-the-badge&logo=aceternity&logoColor=white)](https://aceternity.io/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-<!-- [![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/) -->
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 [![GSAP Animation](https://img.shields.io/badge/GSAP_Animation-00C7FF?style=for-the-badge&logo=gsap&logoColor=white)](https://greensock.com/gsap/) 
 
 ### 💻 Other Technologies
 
-<!--[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) -->
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Data Structures](https://img.shields.io/badge/Data_Structures-0A0A0A?style=for-the-badge&logo=data%20structures&logoColor=white)](https://en.wikipedia.org/wiki/Data_structure)
 [![Algorithms](https://img.shields.io/badge/Algorithms-9C27B0?style=for-the-badge&logo=algorithm&logoColor=white)](https://en.wikipedia.org/wiki/Algorithm)
-<!--[![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=machine%20learning&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning) -->
-<!--[![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-0F9D58?style=for-the-badge&logo=artificial%20intelligence&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence) -->
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=machine%20learning&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-0F9D58?style=for-the-badge&logo=artificial%20intelligence&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence) -->
 
 ---
 
@@ -194,7 +194,7 @@ I'm eager to explore collaboration opportunities on projects that leverage cutti
 [![Instagram](https://img.shields.io/badge/Instagram-AyushKumar-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ayush._.kumar__/)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-VikashKumar-blue?style=for-the-badge&logo=twitter)](https://twitter.com/vikashkrdeveloper) -->
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-VikashKumar-blueviolet?style=for-the-badge&logo=web)](https://vikashkrdeveloper.me/) -->
-[![GitHub](https://img.shields.io/badge/GitHub-The-Ayush001-black?style=for-the-badge&logo=github)](https://github.com/The-Ayush001)
+[![GitHub](https://img.shields.io/badge/GitHub-Ayush-17M-black?style=for-the-badge&logo=github)](https://github.com/Ayush-17M)
 [![Email](https://img.shields.io/badge/Email-AyushKumar-red?style=for-the-badge&logo=gmail)](mailto:vik.ayush007arm@gmail.com)
 
 <!--### 🔝 Top Contributed Repo
