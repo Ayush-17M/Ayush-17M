@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Ayush - Software Developer ##
 
-**Ayush-17M/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Ayush-17M/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 🌱 • I’m currently learning 
 
